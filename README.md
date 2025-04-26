@@ -2,7 +2,7 @@
 
 A web-based 3D simulation demonstrating drone-based solar panel monitoring using thermal imaging technology.
 
-![Project Preview](preview.png)
+![Project Preview](Project_Preview.png)
 
 ## Overview
 
